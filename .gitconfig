@@ -1,0 +1,6 @@
+[core]
+        autocrlf = true
+        whitespace = cr-at-eol
+[user]
+        email = shestakovap@skbkontur.ru
+        name = Alexsey Shestakov
